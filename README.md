@@ -2,7 +2,10 @@
 
 A fun, visual, and Hindi-based introduction to **Functional Programming (FP)**, featuring **Jethalal** and **Babita** from *TMKOC*. This interactive demo explains FP concepts like pure functions, immutability, higher-order functions, and side effects using relatable metaphors, code examples, and engaging UI.
 
+🔗 **Live Demo:** [fp-intro-fullstackgada](https://fp-intro-fullstackgada.netlify.app/)
+
 ---
+
 
 ## 🎯 Features
 
